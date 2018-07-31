@@ -1,1 +1,41 @@
+body {
+  
+ background-image: url("https://hdwallsource.com/img/2015/5/dark-background-46615-48024-hd-wallpapers.jpg");
+}
+h1 {
+  color: Purple; 
+  font-size: 55px; 
+  text-align: center; 
+  
+  
+}
+h3 { text-align: right;  
+color: Orange; 
+font-size: 40px;} 
+img { 
+border: 20px solid purple; 
+padding: 8px;
+background-color: orange; 
+} 
+.outerBox {
+  align-self: auto; 
+} 
+p{
+  color: orange; 
+  font-size: 30px; 
 
+}
+ul{
+  color: orange; 
+  font-size: 25px
+}
+table{ 
+  color: white;
+  border: 3px solid white;
+  position: center;
+  font-size: 30px;
+}
+
+td{
+  border: 3px solid white;
+}
